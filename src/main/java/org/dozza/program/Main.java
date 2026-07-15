@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Aaaaa");
 
+        System.out.println("bbbbb");
         /**
          * 1) Дан массив целых чисел. Заполнить данный массив с клавиатуры
          * Scanner подать как аргумент метода

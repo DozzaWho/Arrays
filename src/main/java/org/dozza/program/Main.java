@@ -8,8 +8,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Aaaaa");
+
         /**
-         * 1) Дан массив целых чисел. Заполнить данный массив с клавиатуры.
+         * 1) Дан массив целых чисел. Заполнить данный массив с клавиатуры
          * Scanner подать как аргумент метода
          */
         Scanner scanner = new Scanner(System.in);
